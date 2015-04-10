@@ -33,8 +33,11 @@ Wykonać program do obliczania dat Wielkanocy w latach metodą Meeusa :smile:
 29. return 0;
 30. }
 
-KONIEC :smile: :smile: :smile:
+KONIEC :smile: :smile: :smile: kiedyś zacznie działać...
 
 # Zadanie 2
+Napisz pętlę while wypisującą na ekran znaki podane przez użytkownika, aż do napotkania znaku 'x'.
 
-
+1. #include <stdio.h>
+2. int main (){
+3. 
