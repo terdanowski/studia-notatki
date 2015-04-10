@@ -34,4 +34,4 @@
 31. return 0;
 32. }
 
-KONIEC
+KONIEC :smile: :smile: :smile:
